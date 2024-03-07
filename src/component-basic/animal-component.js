@@ -36,4 +36,6 @@ function AnimalContainer() {
   )
 }
 
-root.render(<AnimalContainer />, document.getElementById("root"))
+
+// VDOM에서 그린 것
+root.render(<AnimalContainer />)
