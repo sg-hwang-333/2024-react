@@ -1,1 +1,1 @@
-import "./component-basic/props-basic-1";
+import "./component-basic/props-basic-3";
