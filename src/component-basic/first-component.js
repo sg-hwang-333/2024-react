@@ -7,4 +7,9 @@ function FirstComponent() {
   return <div>First Component</div>
 }
 
-root.render(<FirstComponent/>)
+function HelloWorld() {
+  return <h1>Hello, World!</h1>
+}
+root.render(
+  <div><HelloWorld /><HelloWorld /></div>
+)
