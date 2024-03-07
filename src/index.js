@@ -1,1 +1,1 @@
-import "./component-basic/animal-component";
+import "./component-basic/props-basic-1";
