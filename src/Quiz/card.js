@@ -15,11 +15,11 @@ const Card = function (props) {
 
 root.render(
     <div>
-        <Card width="20px" height="30px" />
-        <Card width="20px" height="30px" />
-        <Card width="20px" height="30px" />
-        <Card width="20px" height="30px" />
-        <Card width="20px" height="30px" />
+        <Card width="100px" height="100px" />
+        <Card width="20px" height="70px" />
+        <Card width="50px" height="60px" />
+        <Card width="90px" height="30px" />
+        <Card width="20px" height="10px" />
     </div>
 
 )
