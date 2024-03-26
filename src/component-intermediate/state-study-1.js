@@ -16,10 +16,12 @@ function Counter(props){
             <h1>{count}</h1>
             {/* onClick - 카멜표기법주의(c가 대문자) */}
             {/* setCount(1)을 하면 계속 Counter 를 호출한다. 이때 버튼을 누를 때마다 새로 호출하기(0부터 다시 랜더링) 때문에 1만 나오는 것이다. */}
-            <button onClick={() => {setConut(1)}}>증가</button> 
+            <button onClick={() => {setConut(1)}}>1로 만들기</button> 
             {/* 기존값이 남아있어 계속 더해지게 된다. -> 컴포넌트 함수의 재실행=> qnqns*/}
             <button onClick={()=>{setConut(count+1)}}>1씩증가</button> 
             <button onClick={()=>{setConut(count-1)}}>1씩감소</button> 
+            <button onClick={()=>{setConut(count => count + 1)}}>1씩증가</button> 
+            <button onClick={()=>{setConut(count => count - 1)}}>1씩감소</button> 
            
            {/* 버츄얼돔은 정말 딱 바뀐 부분만 바꾼다.  */}
             
