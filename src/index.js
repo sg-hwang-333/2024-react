@@ -3,10 +3,12 @@
 // import "./component-intermediate/counter-with-hook-caveat";
 // import "./component-intermediate/state-study-1";
 // import "./component-intermediate/state-study-4";
-import "./component-intermediate/todo-app-demo"
+// import "./component-intermediate/todo-app-demo"
 
 // import "./JS_study/immutable-list-manipulation"
 // import "./JS_study/manipulate-list"
+
+import "./postProject/postProject"
 
 // import "./Quiz/calculator"
 // import "./Quiz/slotMachine"
