@@ -19,4 +19,5 @@
 // import './use-effect-demo/use-effect-deps.js';
 // import './use-effect-demo/use-effect-using-local-storage.js';
 // import './use-effect-demo/use-effect-unmount.js';
-import "./use-effect-demo/use-effect-unmount-deps"
+// import "./use-effect-demo/use-effect-unmount-deps"
+import "./use-effect-demo/use-effect-with-dom"
