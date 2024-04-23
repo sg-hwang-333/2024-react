@@ -13,6 +13,13 @@
 // import "./Quiz/calculator"
 // import "./Quiz/slotMachine"
 // import "./Quiz/card"
+// import "./Quiz/DatePrinter"
+// import "./Quiz/Rectangle"
+// import "./Quiz/Weather"
+// import "./Quiz/Repeater"
+// import "./Quiz/ColorList"
+// import "./Quiz/Rating"
+import "./Quiz/Alerter"
 
 
 // import './use-effect-demo/use-effect-intro.js';
@@ -20,4 +27,4 @@
 // import './use-effect-demo/use-effect-using-local-storage.js';
 // import './use-effect-demo/use-effect-unmount.js';
 // import "./use-effect-demo/use-effect-unmount-deps"
-import "./use-effect-demo/use-effect-with-dom"
+// import "./use-effect-demo/use-effect-with-dom"
