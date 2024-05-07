@@ -19,7 +19,7 @@
 // import "./Quiz/Repeater"
 // import "./Quiz/ColorList"
 // import "./Quiz/Rating"
-import "./Quiz/Alerter"
+// import "./Quiz/Alerter"
 
 
 // import './use-effect-demo/use-effect-intro.js';
@@ -28,3 +28,11 @@ import "./Quiz/Alerter"
 // import './use-effect-demo/use-effect-unmount.js';
 // import "./use-effect-demo/use-effect-unmount-deps"
 // import "./use-effect-demo/use-effect-with-dom"
+
+
+// import './use-ref-demo/ref-demo';
+// import './use-ref-demo/controlled-component';
+// import './use-ref-demo/reservation-form';
+
+// import './use-ref-demo/use-ref-practice-form'
+import './use-ref-demo/use-ref-practice-click-game'
