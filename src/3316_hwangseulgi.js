@@ -78,7 +78,7 @@ const RandomColorPicker = () => {
 
     return (
         <>
-            <div style={{width: '100px', height: '100px', backgroundColor:{color}}}></div>
+            <div style={{width: '100px', height: '100px', backgroundColor:`${color}`}}></div>
             <br></br>
             <button onClick={() => setColor(() => randomColorStr())}>pick</button>
         </>
