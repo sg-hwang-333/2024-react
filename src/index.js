@@ -39,4 +39,10 @@
 
 // import './use-context-demo/use-context-fake-login-button-intergrated'
 
-import'./3316_hwangseulgi'
+// import'./3316_hwangseulgi'
+
+// import "./use-reducer-demo/use-reducer-counter-1"
+// import "./use-reducer-demo/use-reducer-counter-2"
+
+import "./use-callback-memo-demo/use-memo-demo"
+
