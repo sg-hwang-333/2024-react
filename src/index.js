@@ -56,5 +56,5 @@
 // import "./component-styling/using-svg"
 // import "./component-styling/using-react-icons"
 
-import "./portal-demo/using-portal"
+import "./portal-demo/using-portal" 
 
