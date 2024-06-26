@@ -59,4 +59,6 @@
 // import "./portal-demo/using-portal" 
 
 // import "./store/useCounterStore"
-import "./zustand-demo/zustand-basic"
+// import "./zustand-demo/zustand-basic"
+
+import "./zustand-demo/person"

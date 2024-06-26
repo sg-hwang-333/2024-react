@@ -19,7 +19,14 @@ const useCounterStore = create((set) => ({
     // 이전 상태값에 대한 참조가 필요 없으면 바로 상태값 지정
     set: (value) => {
         set({ count: value })
-    }
+    },
+    // async 함수 추가
+    incrementAsync: async () => {
+        // sleep 함수 흉내내기
+        await new Promise((resolve) => setTimeout(resolve, 1000))
+        // 상태 변경
+        set(state => ({ ...state, count: state.count + 1 }))
+    },
 }))
 
 export default useCounterStore;
